@@ -1,4 +1,3 @@
-# OpenStreetMap
 Open Street Map is an open editable map of the whole world which is being build by the volunteers.
 # OSM Tags
 - OpenStreetMap (OSM) tags are key-value pairs that are used to describe the different features that are present on the map.
